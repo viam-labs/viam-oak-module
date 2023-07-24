@@ -1,0 +1,2 @@
+depthai-sdk==1.9.5
+viam-sdk==0.4.0
